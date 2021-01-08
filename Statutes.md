@@ -1,6 +1,6 @@
 
 *MD transcript: Cercel Bogdan-Petre*  
-Please report any spelling mistakes or missing parts to bestuur@gmail.com  
+Please report any spelling mistakes or missing parts to bestuur@storm.vu  
 <br>
 <br>
 
