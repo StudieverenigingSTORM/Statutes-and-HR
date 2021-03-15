@@ -12,7 +12,7 @@ December 10, 2018
 # Contents
 
 1. Statutes
-   1. [Name, Location and Duration](#-1.1-Name,-location-and-duration)
+   1. [Name, Location and Duration](###-1.1-Name,-location-and-duration)
    2. [Goal](###-1.2-Goal)
    3. [Resources](###-1.3-Resources)
    4. [Members, Rights and Duties of Members](###-1.4-Members,-Rights-and-Duties-of-Members)
