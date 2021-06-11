@@ -298,4 +298,4 @@ Voor niet begrote uitgaven die tijdens een bestuursperiode samen meer dan het mi
 
 ### Artikel 52
 
-De Nederlandse versie van dit huishoudelijk regelement is leidend.
+De Nederlandse versie van dit huishoudelijk reglement is leidend.
