@@ -31,7 +31,7 @@ Datum: 19 November 2018
 1.7 [Van de Algemene Vergaderingen](##1.7-Van-de-Algemene-Vergaderingen)<br>
 1.8 [Van de Verkiezingen](##1.8-Van-de-Verkiezingen)<br>
 1.9 [Slotbepalingen](##1.9-Slotbepalingen)<br>
-
+2.0 [Alcohol Regels](##2.0-Acohol-Regels)<br>
 
 ## 1.1 Van de Leden
 
@@ -299,3 +299,26 @@ Voor niet begrote uitgaven die tijdens een bestuursperiode samen meer dan het mi
 ### Artikel 52
 
 De Nederlandse versie van dit huishoudelijk regelement is leidend.
+
+## 2.0 Alcohol Regels
+
+### Artikel 53
+
+STORM erkent borrels die namens de vereniging worden georganiseerd en hun belang als plek en moment voor leden om elkaar te ontmoeten.
+
+### Artikel 54
+
+1. Het bestuur is altijd eindverantwoordelijk voor het verloop van een borrel en andere evenementen met alcoholische consumpties die in naam van de vereniging worden georganiseerd.
+2. Gedurende het gehele tijdsbestek van een in naam van de vereniging georganiseerde borrel of ander evenement met alcoholconsumptie op de VU blijft tenminste één aanwezige persoon volkomen nuchter. Deze persoon is bestuurslid en dient zich bij de beveiliging van de VU kenbaar te maken als aangewezen nuchtere persoon in het geval dat het evenement op de campus plaatsvindt.
+3. Spellen met alcoholische consumptie als doel zijn verboden en het is de verantwoordelijkheid van het bestuur en de organiserende commissie om dat af te dwingen.
+
+### Artikel 55
+
+1. Leden die alcoholische dranken schenken zijn verplicht dronken mensen te herkennen, hen geen verdere alcoholische dranken te verstrekken en dit te melden bij de aangewezen nuchtere persoon.
+2. Gedurende het gehele tijdsbestek van een in naam van de vereniging georganiseerde borrel of evenement met alcoholische consumpties, dienen er altijd niet-alcoholische dranken beschikbaar te zijn die goedkoper zijn dan alcoholische dranken.
+3. Kraanwater is ten allen tijde gratis beschikbaar voor alle aanwezigen.
+
+### Artikel 56
+
+1. Niet-gedistilleerde dranken mogen pas na 15.00 uur worden gekocht en/of genuttigd. Wanneer de consumptie niet gerelateerd is aan een door de vereniging georganiseerde borrel mogen deze dranken alleen in de StoKa worden genuttigd. Anders mogen zij alleen worden genuttigd op de toegewezen locatie voor het evenement.
+2. Gedistilleerde dranken mogen alleen op de toegewezen locatie worden gekocht en/of genuttigd tijdens een door de vereniging georganiseerde borrel.
